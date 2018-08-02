@@ -1,2 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
 	Most likely, it's collection of our works. Initialization is probably needed to get started as git repo. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	it is like a middleware. It is like a buffer in order to be sure about not cause some error on both working directory and repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	I do not have an idea yet.
+	
+
